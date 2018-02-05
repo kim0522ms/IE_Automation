@@ -36,7 +36,7 @@ namespace SendParameterTest_01
             // 로드한 HTML페이지에 있는 Element중
             // 1. q라는 id를 가진 Element를 획득 (getElementById("q")
             // 2. 해당 Element의 value 값을 test1234로 변경 ( .setAttribute("value", "test1234) );
-            page.getElementById("q").setAttribute("value", "신현우는젓가락동맹의저항을받을것이다");
+            page.getElementById("q").setAttribute("value", "ㅋㅋㅋㅋㅋ");
         }
 
     }
